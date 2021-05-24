@@ -3,7 +3,7 @@ Time Table Line File
 -----------------------
 
 Created with Omsi Version 2.2.032
-Date: 7/5/2021
+Date: 17/5/2021
 
 [userallowed]
 
@@ -13,7 +13,7 @@ Date: 7/5/2021
 
 [newtour]
 AP-01
-Buses ECitaro
+Buses Rigid 4
 1023
 
 ------------------------------------
@@ -256,7 +256,7 @@ Buses ECitaro
 
 [newtour]
 AP-02
-Buses ADL E500MMCFL
+Buses Rigid 4
 1023
 
 ------------------------------------
@@ -493,7 +493,7 @@ Buses ADL E500MMCFL
 
 [newtour]
 AP-03
-Buses Citaro G RHD
+Buses Rigid 3
 1023
 
 ------------------------------------
@@ -730,7 +730,7 @@ Buses Citaro G RHD
 
 [newtour]
 AP-04
-Buses ADL E500MMCFL
+Buses Rigid 3
 1023
 
 ------------------------------------

@@ -3,7 +3,7 @@ Time Table Line File
 -----------------------
 
 Created with Omsi Version 2.2.032
-Date: 7/5/2021
+Date: 17/5/2021
 
 [userallowed]
 
@@ -13,7 +13,7 @@ Date: 7/5/2021
 
 [newtour]
 AP-01
-Buses Citaro G RHD
+Buses Bendy 1
 1023
 
 ------------------------------------
@@ -106,7 +106,7 @@ Buses Citaro G RHD
 
 [newtour]
 AP-02
-Buses MAN A22 E6
+Buses Rigid 1
 1023
 
 ------------------------------------
@@ -199,7 +199,7 @@ Buses MAN A22 E6
 
 [newtour]
 AP-03
-Buses ECitaro
+Buses Rigid 4
 1023
 
 ------------------------------------
@@ -292,7 +292,7 @@ Buses ECitaro
 
 [newtour]
 AP-04
-Buses ECitaro
+Buses Rigid 4
 1023
 
 ------------------------------------
