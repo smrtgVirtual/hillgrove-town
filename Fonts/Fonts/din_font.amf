@@ -1,0 +1,17 @@
+ID=91438
+MAJOR=1
+MINOR=0
+REVISION=0
+BETA=False
+
+[requires]
+[requires_end]
+
+[uninstall]
+\Fonts\din_font.amf
+\Fonts\DIN.oft
+\Fonts\DIN_Alpha.bmp
+\Fonts\DIN_Narrow.oft
+\Fonts\DIN_Narrow_Alpha.bmp
+[uninstall_end]
+

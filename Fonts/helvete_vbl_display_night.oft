@@ -1,0 +1,149 @@
+	OMSI-Font (*.oft)
+	Hier wird ein neuer Buchstabensatz definiert. Dies geschieht
+	über folgende Befehle:
+
+	[newfont]
+	{name}
+	{bitmap-Datei}
+	{alpha-Datei}
+	{Höhe in Pixeln (inkl. vertikalem Abstand)}
+	{waagerechte Lücke}
+
+	[char]
+	{Buchstabe}
+	{X-Koordinate vorne}
+	{X-Koordinate hinten (inkl Abstand zum nächsten Buchstaben)}
+	{Y-Koordinate Oberkante}
+
+[newfont]
+helvete_vbl_display_night
+helvete_vbl_display_night.bmp
+helvete_vbl_display_alpha.bmp
+25
+2
+
+[char]
+0
+0
+16
+3
+
+[char]
+1
+17
+28
+3
+
+[char]
+2
+29
+45
+3
+
+[char]
+3
+46
+62
+3
+
+[char]
+4
+63
+79
+3
+
+[char]
+5
+80
+96
+3
+
+[char]
+6
+97
+113
+3
+
+[char]
+7
+114
+131
+3
+
+[char]
+8
+132
+148
+3
+
+[char]
+9
+149
+165
+3
+
+[char]
+:
+166
+172
+3
+
+[char]
+.
+173
+179
+3
+
+[char]
+/
+180
+192
+3
+
+[char]
+l
+193
+199
+3
+
+[char]
+k
+200
+216
+3
+
+[char]
+m
+217
+241
+3
+
+[char]
+h
+242
+258
+3
+
+[char]
+*
+259
+265
+3
+
+[char]
+C
+266
+286
+3
+
+[char]
+-
+287
+298
+3
+
+[char]
+ 
+298
+314
+3

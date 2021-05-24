@@ -1,0 +1,91 @@
+	OMSI-Font (*.oft)
+	Hier wird ein neuer Buchstabensatz definiert. Dies geschieht
+	über folgende Befehle:
+
+	[newfont]
+	{name}
+	{bitmap-Datei}
+	{alpha-Datei}
+	{Höhe in Pixeln (inkl. vertikalem Abstand)}
+	{waagerechte Lücke}
+
+	[char]
+	{Buchstabe}
+	{X-Koordinate vorne}
+	{X-Koordinate hinten (inkl Abstand zum nächsten Buchstaben)}
+	{Y-Koordinate Oberkante}
+
+[newfont]
+iTram_WL_Wagennummer
+iTram_WL_Wagennummer.bmp
+iTram_WL_Wagennummer_alpha.bmp
+126
+16
+
+
+[char]
+ 
+718
+768
+1
+
+[char]
+0
+2
+69
+1
+
+[char]
+1
+79
+129
+1
+
+[char]
+2
+145
+214
+1
+
+[char]
+3
+217
+286
+1
+
+[char]
+4
+286
+359
+1
+
+[char]
+5
+359
+430
+1
+
+[char]
+6
+430
+501
+1
+
+[char]
+7
+502
+572
+1
+
+[char]
+8
+573
+645
+1
+
+[char]
+9
+645
+716
+1
+

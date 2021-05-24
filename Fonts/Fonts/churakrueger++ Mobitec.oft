@@ -1,0 +1,52 @@
+################################################################
+  churakrueger Mobitec Pictogram++ -- build 1 (2014-05-18)
+################################################################
+
+  churakrueger Mobitec Pictogram++ is an OMSI-format pictogram font, created for
+  OMSI 2, as a custom icon demonstration for the chura-Krüger matrix mod.
+  
+  
+
+
+[newfont]
+churakrueger Mobitec Pictogram++
+churakrueger++ Mobitec.bmp
+churakrueger++ Mobitec.bmp
+32
+1
+
+[char]
+&
+1
+42
+1
+
+[char]
+/
+43
+87
+1
+
+[char]
+0
+88
+122
+1
+
+[char]
+1
+123
+159
+1
+
+[char]
+B
+160
+215
+1
+
+[char]
+S
+216
+246
+1

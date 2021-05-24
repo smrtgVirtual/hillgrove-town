@@ -1,0 +1,28 @@
+################################################################
+  churakrueger Bad Kinzau Numeric -- build 1 (2014-07-11)
+################################################################
+
+  churakrueger Bad Kinzau Numeric is an OMSI-format pictogram font, created for
+  OMSI 2, as a custom font demonstration for the chura-Krüger matrix mod.
+  
+  
+
+
+[newfont]
+churakrueger Bad Kinzau Numeric
+churakrueger-badkinzau-n.bmp
+churakrueger-badkinzau-n.bmp
+16
+1
+
+[char]
+ 
+1
+0
+1
+
+[char]
+•
+1
+20
+1

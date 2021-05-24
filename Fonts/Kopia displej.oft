@@ -1,0 +1,48 @@
+	OMSI-Font (*.oft)
+	Hier wird ein neuer Buchstabensatz definiert. Dies geschieht
+	über folgende Befehle:
+
+	[newfont]
+	{name}
+	{bitmap-Datei}
+	{alpha-Datei}
+	{Höhe in Pixeln (inkl. vertikalem Abstand)}
+	{waagerechte Lücke}
+
+	[char]
+	{Buchstabe}
+	{X-Koordinate vorne}
+	{X-Koordinate hinten (inkl Abstand zum nächsten Buchstaben)}
+	{Y-Koordinate Oberkante}
+
+[newfont]
+Pixel2
+pixel2.bmp
+pixel2_alpha.bmp
+28
+17
+
+
+[char]
+A
+2
+25
+2
+
+[char]
+B
+70
+93
+2
+
+[char]
+C
+104
+128
+2
+
+[char]
+D
+171
+195
+2

@@ -1,0 +1,36 @@
+	OMSI-Font (*.oft)
+	Hier wird ein neuer Buchstabensatz definiert. Dies geschieht
+	über folgende Befehle:
+
+	[newfont]
+	{name}
+	{bitmap-Datei}
+	{alpha-Datei}
+	{Höhe in Pixeln (inkl. vertikalem Abstand)}
+	{waagerechte Lücke}
+
+	[char]
+	{Buchstabe}
+	{X-Koordinate vorne}
+	{X-Koordinate hinten (inkl Abstand zum nächsten Buchstaben)}
+	{Y-Koordinate Oberkante}
+
+[newfont]
+LCDDot_Font_Vollmatrix
+LCDDots_O405N2.bmp
+LCDDots_O405N2.bmp
+23
+0
+
+
+[char]
+0
+0
+23
+0
+
+[char]
+1
+23
+46
+0

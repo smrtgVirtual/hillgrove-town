@@ -1,0 +1,107 @@
+	OMSI-Font (*.oft)
+	Hier wird ein neuer Buchstabensatz definiert. Dies geschieht
+	über folgende Befehle:
+
+	[newfont]
+	{name}
+	{bitmap-Datei}
+	{alpha-Datei}
+	{Höhe in Pixeln (inkl. vertikalem Abstand)}
+	{waagerechte Lücke}
+
+	[char]
+	{Buchstabe}
+	{X-Koordinate vorne}
+	{X-Koordinate hinten (inkl Abstand zum nächsten Buchstaben)}
+	{Y-Koordinate Oberkante}
+
+[newfont]
+KVB_VM_L
+KVB_VM_L.bmp
+KVB_VM_L.bmp
+22
+2
+
+[char]
+1
+0
+5
+0
+
+[char]
+2
+5
+14
+0
+
+[char]
+3
+14
+23
+0
+
+[char]
+4
+23
+32
+0
+
+[char]
+5
+32
+41
+0
+
+[char]
+6
+41
+50
+0
+
+[char]
+7
+50
+59
+0
+
+[char]
+8
+59
+68
+0
+
+[char]
+9
+68
+77
+0
+
+[char]
+0
+78
+87
+0
+
+[char]
+E
+87
+97
+0
+
+[char]
+M
+97
+110
+0
+
+[char]
+N
+110
+123
+0
+
+[char]
+S
+123
+133
+0

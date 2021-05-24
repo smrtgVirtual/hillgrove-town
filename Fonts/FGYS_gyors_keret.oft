@@ -1,0 +1,70 @@
+################################################################
+  FOK-GYEM-Font (red bracket font)
+################################################################
+
+  Zur Verwendung in Bus-Matrixanzeigen bspw. Ikarus 200, 400 (32x16)
+  Nicht in Vollfarben verwenden! Immer eine Farbe angeben!
+
+(c) 03.2011 nemeza
+
+
+
+	OMSI-Font (*.oft)
+	Hier wird ein neuer Buchstabensatz definiert. Dies geschieht
+	über folgende Befehle:
+
+	[newfont]
+	{name}
+	{bitmap-Datei}
+	{alpha-Datei}
+	{Höhe in Pixeln (inkl. vertikalem Abstand)}
+	{waagerechte Lücke}
+
+	[char]
+	{Buchstabe}
+	{X-Koordinate vorne}
+	{X-Koordinate hinten (inkl Abstand zum nächsten Buchstaben)}
+	{Y-Koordinate Oberkante}
+
+[newfont]
+FGY2S_gyors_keret
+FGYS_gyors_keret.bmp
+FGYS_gyors_keret.bmp
+16
+0
+
+[char]
+ 
+0
+31
+0
+
+[char]
+0
+0
+31
+0
+
+[char]
+1
+32
+63
+0
+
+[char]
+2
+65
+95
+0
+
+[char]
+3
+32
+63
+16
+
+[char]
+4
+65
+95
+16

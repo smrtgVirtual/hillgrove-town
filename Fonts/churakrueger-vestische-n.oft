@@ -1,0 +1,28 @@
+################################################################
+  churakrueger Vestische Logo -- build 1 (2014-03-16)
+################################################################
+
+  churakrueger Vestische Logo is an OMSI-format pictogram font, created for
+  OMSI 2, as a custom font demonstration for the chura-Krüger matrix mod.
+  
+  
+
+
+[newfont]
+churakrueger Vestische Logo
+churakrueger-vestische-n.bmp
+churakrueger-vestische-n.bmp
+16
+1
+
+[char]
+ 
+1
+0
+1
+
+[char]
+•
+1
+24
+1

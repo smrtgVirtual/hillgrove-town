@@ -1,0 +1,123 @@
+################################################################
+  Dot Matrix Numbers (large)
+################################################################
+
+Large dot matrix numbers and X, N, E for the line number
+
+(c) 4.8.2012 Pedro Vendeira
+
+
+
+	OMSI-Font (*.oft)
+	Hier wird ein neuer Buchstabensatz definiert. Dies geschieht
+	über folgende Befehle:
+
+	[newfont]
+	{name}
+	{bitmap-Datei}
+	{alpha-Datei}
+	{Höhe in Pixeln (inkl. vertikalem Abstand)}
+	{waagerechte Lücke}
+
+	[char]
+	{Buchstabe}
+	{X-Koordinate vorne}
+	{X-Koordinate hinten (inkl Abstand zum nächsten Buchstaben)}
+	{Y-Koordinate Oberkante}
+
+[newfont]
+dotMatrix_Large
+dotMatrix_large.bmp
+dotMatrix_large.bmp
+135
+5
+
+[char]
+ 
+0
+1
+0
+
+[char]
+0
+0
+65
+0
+
+[char]
+1
+65
+130
+0
+
+[char]
+2
+130
+209
+0
+
+[char]
+3
+209
+280
+0
+
+[char]
+4
+280
+360
+0
+
+[char]
+5
+360
+434
+0
+
+[char]
+6
+434
+507
+0
+
+[char]
+7
+507
+575
+0
+
+[char]
+8
+575
+647
+0
+
+[char]
+9
+647
+721
+0
+
+[char]
+M
+721
+801
+0
+
+[char]
+N
+801
+866
+0
+
+[char]
+X
+866
+931
+0
+
+[char]
+E
+931
+944
+30

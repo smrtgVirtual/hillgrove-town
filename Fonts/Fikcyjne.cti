@@ -1,0 +1,62 @@
+***************************************
+MZK Bielsko-Bia³a
+***************************************
+
+[item]
+MZK Bielsko-Bia³a
+farbschema_tex1
+bb.tga
+
+***************************************
+MZK Jastrzêbie-Zdrój
+***************************************
+
+[item]
+MZK Jastrzêbie-Zdrój
+farbschema_tex1
+trg2.tga
+
+***************************************
+Rybnik 2
+***************************************
+
+[item]
+Rybnik 2
+farbschema_tex1
+nryb.tga
+
+***************************************
+MZK Zielona-Góra
+***************************************
+
+[item]
+MZK Zielona-Góra
+farbschema_tex1
+zg.tga
+
+***************************************
+MPK Kraków
+***************************************
+
+[item]
+MPK Kraków
+farbschema_tex1
+mpk.tga
+
+***************************************
+Tester
+***************************************
+
+[item]
+Tester
+farbschema_tex1
+nowy.tga
+
+***************************************
+Tester 2
+***************************************
+
+[item]
+Tester 2
+farbschema_tex1
+test.tga
