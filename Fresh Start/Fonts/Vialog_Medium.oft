@@ -1,0 +1,95 @@
+################################################################
+  ANNAX-Font (large)
+################################################################
+
+  Zur Verwendung in Bus-Matrixanzeigen bspw. SD200, SD202
+  Nicht in Vollfarben verwenden! Immer eine Farbe angeben!
+
+(c) 2.7.2009 Marcel Kuhnt
+
+
+
+	OMSI-Font (*.oft)
+	Hier wird ein neuer Buchstabensatz definiert. Dies geschieht
+	über folgende Befehle:
+
+	[newfont]
+	{name}
+	{bitmap-Datei}
+	{alpha-Datei}
+	{Höhe in Pixeln (inkl. vertikalem Abstand)}
+	{waagerechte Lücke}
+
+	[char]
+	{Buchstabe}
+	{X-Koordinate vorne}
+	{X-Koordinate hinten (inkl Abstand zum nächsten Buchstaben)}
+	{Y-Koordinate Oberkante}
+
+[newfont]
+Vialog Medium
+Vialog_Medium.bmp
+Vialog_Medium.bmp
+64
+5
+
+[char]
+0
+9
+37
+0
+
+[char]
+1
+43
+69
+0
+
+[char]
+2
+74
+99
+0
+
+[char]
+3
+106
+130
+0
+
+[char]
+4
+136
+165
+0
+
+[char]
+5
+170
+195
+0
+
+[char]
+6
+201
+228
+0
+
+[char]
+7
+233
+259
+0
+
+[char]
+8
+265
+292
+0
+
+[char]
+9
+297
+323
+0
+

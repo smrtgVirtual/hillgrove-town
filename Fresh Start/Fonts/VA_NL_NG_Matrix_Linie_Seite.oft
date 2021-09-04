@@ -1,0 +1,107 @@
+	OMSI-Font (*.oft)
+	Hier wird ein neuer Buchstabensatz definiert. Dies geschieht
+	über folgende Befehle:
+
+	[newfont]
+	{name}
+	{bitmap-Datei}
+	{alpha-Datei}
+	{Höhe in Pixeln (inkl. vertikalem Abstand)}
+	{waagerechte Lücke}
+
+	[char]
+	{Buchstabe}
+	{X-Koordinate vorne}
+	{X-Koordinate hinten (inkl Abstand zum nächsten Buchstaben)}
+	{Y-Koordinate Oberkante}
+
+[newfont]
+VA-Matrix-Linie-Seite
+VA_NL_NG_Matrix_Linie_Seite.bmp
+VA_NL_NG_Matrix_Linie_Seite.bmp
+19
+1
+
+[char]
+1
+1
+9
+1
+
+[char]
+2
+10
+18
+1
+
+[char]
+3
+19
+27
+1
+
+[char]
+4
+28
+36
+1
+
+[char]
+5
+37
+45
+1
+
+[char]
+6
+46
+54
+1
+
+[char]
+7
+55
+63
+1
+
+[char]
+8
+64
+72
+1
+
+[char]
+9
+73
+81
+1
+
+[char]
+0
+82
+90
+1
+
+[char]
+A
+91
+99
+1
+
+[char]
+B
+100
+108
+1
+
+[char]
+[
+109
+119
+1
+
+[char]
+ 
+120
+128
+1

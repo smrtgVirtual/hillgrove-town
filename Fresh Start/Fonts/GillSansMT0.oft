@@ -1,0 +1,90 @@
+	OMSI-Font (*.oft)
+	Hier wird ein neuer Buchstabensatz definiert. Dies geschieht
+	über folgende Befehle:
+
+	[newfont]
+	{name}
+	{bitmap-Datei}
+	{alpha-Datei}
+	{Höhe in Pixeln (inkl. vertikalem Abstand)}
+	{waagerechte Lücke}
+
+	[char]
+	{Buchstabe}
+	{X-Koordinate vorne}
+	{X-Koordinate hinten (inkl Abstand zum nächsten Buchstaben)}
+	{Y-Koordinate Oberkante}
+
+[newfont]
+Gill Sans MT ohne 0
+GillSansMT0.bmp
+GillSansMT0Alpha.bmp
+43
+0
+
+
+[char]
+1
+1
+29
+1
+
+[char]
+2
+30
+59
+1
+
+[char]
+3
+60
+89
+1
+
+[char]
+4
+90
+119
+1
+
+[char]
+5
+120
+149
+1
+
+[char]
+6
+150
+179
+1
+
+[char]
+7
+180
+209
+1
+
+[char]
+8
+210
+239
+1
+
+[char]
+9
+240
+269
+1
+
+[char]
+0
+270
+299
+1
+
+[char]
+:
+300
+309
+1

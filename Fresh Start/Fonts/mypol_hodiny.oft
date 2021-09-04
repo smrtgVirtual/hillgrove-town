@@ -1,0 +1,103 @@
+	OMSI-Font (*.oft)
+	Hier wird ein neuer Buchstabensatz definiert. Dies geschieht
+	über folgende Befehle:
+
+	[newfont]
+	{name}
+	{bitmap-Datei}
+	{alpha-Datei}
+	{Höhe in Pixeln (inkl. vertikalem Abstand)}
+	{waagerechte Lücke}
+
+	[char]
+	{Buchstabe}
+	{X-Koordinate vorne}
+	{X-Koordinate hinten (inkl Abstand zum nächsten Buchstaben)}
+	{Y-Koordinate Oberkante}
+
+[newfont]
+MYPOL
+mypol_hodiny.bmp
+mypol_hodiny_alpha.bmp
+64
+0
+
+
+[char]
+1
+0
+44
+0
+
+[char]
+2
+44
+88
+0
+
+[char]
+3
+88
+132
+0
+
+[char]
+4
+132
+176
+0
+
+[char]
+5
+176
+220
+0
+
+[char]
+6
+220
+264
+0
+
+[char]
+7
+268
+312
+0
+
+[char]
+8
+312
+356
+0
+
+[char]
+9
+355
+400
+0
+
+[char]
+0
+400
+444
+0
+
+[char]
+P
+444
+488
+0
+
+[char]
+:
+488
+509
+0
+
+
+[char]
+ 
+509
+553
+0

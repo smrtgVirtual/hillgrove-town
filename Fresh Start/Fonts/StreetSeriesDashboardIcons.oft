@@ -1,0 +1,230 @@
+[newfont]
+StreetSeriesDashboardIcons
+StreetSeries_DashboardIcons.bmp
+StreetSeries_DashboardIcons_Alpha.bmp
+82
+6
+
+## Red Pressure 1 Icon ##
+ 
+[char]
+1
+0
+82
+0
+
+## Red Pressure 2 Icon ##
+ 
+[char]
+2
+82
+164
+0
+
+## Red Door Alarm Icon ##
+ 
+[char]
+3
+164
+246
+0
+
+## Red 4m Timer Shutdown Icon ##
+ 
+[char]
+4
+246
+328
+0
+
+## Red Low Fuel Icon ##
+ 
+[char]
+5
+328
+410
+0
+
+## Red 24v Battery Icon ##
+ 
+[char]
+6
+410
+492
+0
+
+## Red Engine Warning Icon##
+ 
+[char]
+7
+492
+574
+0
+
+## Yellow Fuel Warning Icon ##
+ 
+[char]
+8
+0
+82
+82
+
+## Yellow Check Engine Icon ##
+ 
+[char]
+9
+82
+164
+82
+
+## Yellow Pollution Icon ##
+ 
+[char]
+0
+164
+246
+82
+
+## Yellow Door Alarm Icon ##
+ 
+[char]
+A
+246
+328
+82
+ 
+ ## Yellow DEF Icon ##
+ 
+[char]
+B
+328
+410
+82
+
+ ## Yellow Enginebay Door Icon ##
+ 
+[char]
+C
+410
+492
+82
+
+ ## Yellow 3m Timer Icon ##
+ 
+[char]
+D
+492
+574
+82
+
+ ## Yellow Kneeling Ride Height Icon ##
+ 
+[char]
+E
+0
+82
+164
+
+ ## Yellow Fog Light Warning Icon ##
+ 
+[char]
+F
+82
+164
+164
+
+ ## Warning Stop Bell Icon ##
+ 
+[char]
+G
+0
+82
+246
+
+ ## Warning Disabled Bell Icon ##
+ 
+[char]
+H
+82
+164
+246
+
+ ## Warning Fog Light Icon ##
+ 
+[char]
+I
+164
+246
+246
+
+ ## Warning H Icon ##
+ 
+[char]
+J
+246
+328
+246
+
+ ## Warning Retarder Icon ##
+ 
+[char]
+K
+328
+410
+246
+
+ ## Warning DPF Regen Icon ##
+ 
+[char]
+L
+410
+492
+246
+
+ ## Warning Engine Start Stop Icon ##
+ 
+[char]
+M
+492
+574
+246
+
+ ## Warning Engine Start Stop Inhibited Icon ##
+ 
+[char]
+N
+0
+82
+328
+
+ ## Red HEV System has Fault ##
+ 
+[char]
+O
+246
+328
+164
+
+ ## HEV System is in Regen Mode ##
+ 
+[char]
+P
+328
+410
+164
+
+ ## HEV Pump Req ##
+ 
+[char]
+Q
+410
+492
+164
+
+ ## HEV System inactive ##
+ 
+[char]
+R
+492
+574
+164

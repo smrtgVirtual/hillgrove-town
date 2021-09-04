@@ -1,0 +1,85 @@
+	OMSI-Font (*.oft)
+	Hier wird ein neuer Buchstabensatz definiert. Dies geschieht
+	über folgende Befehle:
+
+	[newfont]
+	{name}
+	{bitmap-Datei}
+	{alpha-Datei}
+	{Höhe in Pixeln (inkl. vertikalem Abstand)}
+	{waagerechte Lücke}
+
+	[char]
+	{Buchstabe}
+	{X-Koordinate vorne}
+	{X-Koordinate hinten (inkl Abstand zum nächsten Buchstaben)}
+	{Y-Koordinate Oberkante}
+Verwendete Schriftart: Helvetica LT Std Cond (Gr. 48)
+
+[newfont]
+AL_g12a
+ALg12a.bmp
+ALg12a_alpha.bmp
+81
+1
+
+
+[char]
+1
+20
+45
+57
+
+[char]
+2
+81
+128
+57
+
+[char]
+3
+160
+207
+57
+
+[char]
+4
+240
+293
+57
+
+[char]
+5
+323
+371
+57
+
+[char]
+6
+404
+452
+57
+
+[char]
+7
+487
+534
+57
+
+[char]
+8
+564
+615
+57
+
+[char]
+9
+647
+694
+57
+
+[char]
+E
+732
+785
+57

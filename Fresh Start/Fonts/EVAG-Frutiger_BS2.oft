@@ -1,0 +1,84 @@
+	OMSI-Font (*.oft)
+	Hier wird ein neuer Buchstabensatz definiert. Dies geschieht
+	über folgende Befehle:
+
+	[newfont]
+	{name}
+	{bitmap-Datei}
+	{alpha-Datei}
+	{Höhe in Pixeln (inkl. vertikalem Abstand)}
+	{waagerechte Lücke}
+
+	[char]
+	{Buchstabe}
+	{X-Koordinate vorne}
+	{X-Koordinate hinten (inkl Abstand zum nächsten Buchstaben)}
+	{Y-Koordinate Oberkante}
+
+[newfont]
+EVAG-Frutiger_BS2
+EVAG-Frutiger_BS.bmp
+EVAG-Frutiger_BS-alpha.bmp
+79
+6
+
+
+[char]
+0
+5
+54
+9
+
+[char]
+1
+95
+123
+9
+
+[char]
+2
+176
+221
+9
+
+[char]
+3
+259
+305
+9
+
+[char]
+4
+342
+395
+9
+
+[char]
+5
+432
+476
+9
+
+[char]
+6
+514
+563
+9
+
+[char]
+7
+598
+644
+9
+
+[char]
+8
+682
+732
+9
+
+[char]
+9
+768
+816
+9

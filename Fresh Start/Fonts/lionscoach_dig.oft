@@ -1,0 +1,96 @@
+	OMSI-Font (*.oft)
+	Hier wird ein neuer Buchstabensatz definiert. Dies geschieht
+	über folgende Befehle:
+
+	[newfont]
+	{name}
+	{bitmap-Datei}
+	{alpha-Datei}
+	{Höhe in Pixeln (inkl. vertikalem Abstand)}
+	{waagerechte Lücke}
+
+	[char]
+	{Buchstabe}
+	{X-Koordinate vorne}
+	{X-Koordinate hinten (inkl Abstand zum nächsten Buchstaben)}
+	{Y-Koordinate Oberkante}
+
+[newfont]
+lionscoach_dig
+lionscoach_dig.bmp
+lionscoach_dig.bmp
+80
+0
+
+
+[char]
+ 
+0
+37
+0
+
+[char]
+0
+38
+74
+0
+
+[char]
+1
+75
+111
+0
+
+[char]
+2
+112
+148
+0
+
+[char]
+3
+149
+185
+0
+
+[char]
+4
+186
+221
+0
+
+[char]
+5
+222
+257
+0
+
+[char]
+6
+258
+294
+0
+
+[char]
+7
+295
+331
+0
+
+[char]
+8
+332
+367
+0
+
+[char]
+9
+368
+405
+0
+
+[char]
+:
+406
+420
+0

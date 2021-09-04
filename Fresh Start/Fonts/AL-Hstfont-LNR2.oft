@@ -1,0 +1,128 @@
+	OMSI-Font (*.oft)
+	Hier wird ein neuer Buchstabensatz definiert. Dies geschieht
+	über folgende Befehle:
+
+	[newfont]
+	{name}
+	{bitmap-Datei}
+	{alpha-Datei}
+	{Höhe in Pixeln (inkl. vertikalem Abstand)}
+	{waagerechte Lücke}
+
+	[char]
+	{Buchstabe}
+	{X-Koordinate vorne}
+	{X-Koordinate hinten (inkl Abstand zum nächsten Buchstaben)}
+	{Y-Koordinate Oberkante}
+	
+Verwendete Font: Tw Cen MT, Gr. 32
+
+[newfont]
+AL-Hstfont-LNR2
+AL-Hstfont-LNR2.bmp
+AL-Hstfont-LNR2_alpha.bmp
+32
+0
+
+
+[char]
+ 
+0
+9
+60
+
+[char]
+0
+13
+35
+9
+
+[char]
+1
+53
+62
+9
+
+[char]
+2
+85
+105
+9
+
+[char]
+3
+120
+140
+9
+
+[char]
+4
+154
+176
+9
+
+[char]
+5
+190
+210
+9
+
+[char]
+6
+226
+247
+9
+
+[char]
+7
+260
+283
+9
+
+[char]
+8
+14
+34
+55
+
+[char]
+9
+49
+70
+55
+
+[char]
+/
+85
+105
+55
+
+[char]
+[
+128
+163
+55
+
+[char]
+]
+211
+246
+55
+
+[char]
+#
+282
+299
+55
+
+[char]
+{
+22
+57
+107
+
+[char]
+E
+96
+113
+101
