@@ -1,0 +1,33 @@
+This file was created with the Omsi Object Editing tool
+
+[friendlyname]
+Transition Spandauer Str./Falkenhagener Str.
+
+[groups]
+1
+Crossings
+
+[rendertype]
+surface
+
+[LightMapMapping]
+
+[fixed]
+
+[absheight]
+
+[collision_mesh]
+Transition_Spandauer_Falkenhagener.o3d
+
+[surface]
+
+
+
+###################
+     Model Data
+###################
+
+
+[mesh]
+Transition_Spandauer_Falkenhagener.o3d
+

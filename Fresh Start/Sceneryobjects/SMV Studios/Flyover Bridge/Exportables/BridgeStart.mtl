@@ -1,0 +1,27 @@
+#
+## Alias OBJ Material File
+# Exported from SketchUp, (c) 2000-2012 Trimble Navigation Limited
+
+newmtl Base2
+Ka 0.000000 0.000000 0.000000
+Kd 0.278431 0.278431 0.290196
+Ks 0.330000 0.330000 0.330000
+map_Kd BridgeStart/Base2.png
+
+newmtl Base
+Ka 0.000000 0.000000 0.000000
+Kd 0.945098 1.000000 1.000000
+Ks 0.330000 0.330000 0.330000
+map_Kd BridgeStart/Base.png
+
+newmtl ForegroundColor
+Ka 0.000000 0.000000 0.000000
+Kd 0.000000 0.000000 0.000000
+Ks 0.330000 0.330000 0.330000
+
+newmtl Metal
+Ka 0.000000 0.000000 0.000000
+Kd 0.639216 0.678431 0.678431
+Ks 0.330000 0.330000 0.330000
+map_Kd BridgeStart/Metal.png
+

@@ -1,0 +1,7 @@
+rolltreppe
+anschlusslampe_winkel
+anschlusslampe_on
+clock_hand_hour
+clock_hand_minute
+clock_hand_next
+clock_hand_next_RY

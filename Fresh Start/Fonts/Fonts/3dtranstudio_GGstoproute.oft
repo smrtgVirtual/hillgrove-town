@@ -1,0 +1,178 @@
+################################################################
+KMBred
+################################################################
+
+  Zur Verwendung in NEUEN Bus-Matrixanzeigen bspw. SD202 (6x11)
+  Nicht in Vollfarben verwenden! Immer eine Farbe angeben!
+
+(c) 22.4.2010 Marcel Kuhnt
+
+
+
+	OMSI-Font (*.oft)
+	Hier wird ein neuer Buchstabensatz definiert. Dies geschieht
+	über folgende Befehle:
+
+	[newfont]
+	{name}
+	{bitmap-Datei}
+	{alpha-Datei}
+	{Höhe in Pixeln (inkl. vertikalem Abstand)}
+	{waagerechte Lücke}
+
+	[char]
+	{Buchstabe}
+	{X-Koordinate vorne}
+	{X-Koordinate hinten (inkl Abstand zum nächsten Buchstaben)}
+	{Y-Koordinate Oberkante}
+
+[newfont]
+3dtranstudio_GGstoproute
+3dtranstudio_GGstoproute.bmp
+3dtranstudio_GGstoproute.bmp
+94
+3
+
+[char]
+ 
+841
+879
+131
+
+[char]
+1
+21
+55
+17
+
+[char]
+2
+81
+133
+17
+
+[char]
+3
+146
+197
+17
+
+[char]
+4
+211
+263
+17
+
+[char]
+5
+279
+328
+17
+
+[char]
+6
+341
+392
+17
+
+[char]
+7
+407
+455
+17
+
+[char]
+8
+471
+522
+17
+
+[char]
+9
+535
+586
+17
+
+[char]
+0
+601
+651
+17
+
+[char]
+A
+664
+735
+17
+
+[char]
+B
+756
+818
+17
+
+[char]
+C
+841
+899
+17
+
+[char]
+D
+21
+84
+131
+
+[char]
+E
+107
+157
+131
+
+[char]
+K
+178
+239
+131
+
+[char]
+M
+257
+346
+131
+
+[char]
+N
+371
+431
+131
+
+[char]
+P
+463
+522
+131
+
+[char]
+R
+541
+599
+131
+
+[char]
+S
+618
+676
+131
+
+[char]
+T
+691
+752
+131
+
+[char]
+X
+762
+823
+131

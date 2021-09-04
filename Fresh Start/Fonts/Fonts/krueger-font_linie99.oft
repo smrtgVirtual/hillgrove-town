@@ -1,0 +1,143 @@
+	OMSI-Font (*.oft)
+	Hier wird ein neuer Buchstabensatz definiert. Dies geschieht
+	über folgende Befehle:
+
+	[newfont]
+	{name}
+	{bitmap-Datei}
+	{alpha-Datei}
+	{Höhe in Pixeln (inkl. vertikalem Abstand)}
+	{waagerechte Lücke}
+
+	[char]
+	{Buchstabe}
+	{X-Koordinate vorne}
+	{X-Koordinate hinten (inkl Abstand zum nächsten Buchstaben)}
+	{Y-Koordinate Oberkante}
+
+[newfont]
+krueger-font_linie99
+matrixneu99.bmp
+matrixneu99.bmp
+49
+3
+
+[char]
+ 
+466
+471
+0
+
+[char]
+_
+466
+471
+0
+
+[char]
+1
+0
+18
+0
+
+[char]
+2
+18
+43
+0
+
+[char]
+3
+43
+67
+0
+
+[char]
+4
+67
+91
+0
+
+[char]
+5
+91
+114
+0
+
+[char]
+6
+114
+139
+0
+
+[char]
+7
+139
+163
+0
+
+[char]
+8
+163
+186
+0
+
+[char]
+9
+186
+211
+0
+
+[char]
+0
+211
+234
+0
+
+[char]
+E
+268
+294
+0
+
+[char]
+M
+295
+321
+0
+
+[char]
+N
+325
+345
+0
+
+[char]
+R
+343
+366
+0
+
+[char]
+U
+367
+393
+0
+
+[char]
+S
+394
+420
+0
+
+[char]
+X
+421
+447
+0
+
+[char]
+-
+448
+465
+0

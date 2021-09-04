@@ -1,0 +1,32 @@
+This file was created with the Omsi Object Editing tool
+
+[friendlyname]
+Railway Crossing Straﬂe der Jugend
+
+[groups]
+1
+Crossings
+
+[rendertype]
+surface
+
+[LightMapMapping]
+
+[fixed]
+
+[absheight]
+
+[collision_mesh]
+BUE_Str_der_Jugend.o3d
+
+[surface]
+
+
+
+###################
+     Model Data
+###################
+
+
+[mesh]
+BUE_Str_der_Jugend.o3d

@@ -1,0 +1,32 @@
+This file was created with the Omsi Object Editing tool
+
+[friendlyname]
+Junction Straﬂe der Jugend/Poststraﬂe
+
+[groups]
+1
+Crossings
+
+[rendertype]
+surface
+
+[LightMapMapping]
+
+[fixed]
+
+[absheight]
+
+[collision_mesh]
+Kreuz_Jugend_Poststr.o3d
+
+[surface]
+
+
+
+###################
+     Model Data
+###################
+
+
+[mesh]
+Kreuz_Jugend_Poststr.o3d

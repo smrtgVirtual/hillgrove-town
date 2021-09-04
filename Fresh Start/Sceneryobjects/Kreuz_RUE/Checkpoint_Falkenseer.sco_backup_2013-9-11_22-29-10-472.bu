@@ -1,0 +1,38 @@
+This file was created with the Omsi Object Editing tool
+
+[friendlyname]
+DDR Checkpoint Falkenseer Chaussee
+
+[groups]
+1
+Crossings
+
+[rendertype]
+surface
+
+[LightMapMapping]
+
+[fixed]
+
+[absheight]
+
+[collision_mesh]
+Checkpoint_Falkenseer.o3d
+
+[surface]
+
+
+
+###################
+     Model Data
+###################
+
+
+[mesh]
+Checkpoint_Falkenseer.o3d
+
+
+[terrainhole]
+Checkpoint_Falkenseer_hole.o3d
+
+

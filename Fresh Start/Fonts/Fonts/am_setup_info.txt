@@ -1,0 +1,89 @@
+[importable_addon]
+ID=53280
+Name=Polish Traffic Signs
+
+
+[version]
+0
+4
+0
+1
+
+
+
+[readme]
+Witajcie! Paczka zawiera zestaw polskich znaków drogowych.
+Pliku znaków drogowych opisane s¹ nastêpuj¹co: oznaczenie znaku np. a1 - jest to sama tabliczka znaku a1s - jest to ten sam znak, ale z³¹czony ze s³upem.
+Do³¹czone s¹ te¿ dwa s³upy do tych znaków: slup00 oraz slup01, maj¹ one znaczniki "attach" dziêki którym mo¿na odrazu "przypi¹æ" znak do s³upa
+slup00: ma 2 wpisy (w opcji AttPntNr w edytorze mapy wybieramy 0 albo 1)
+slup01: ma 3 wpisy (w opcji AttPntNr w edytorze mapy wybieramy 0, 1 albo 2)
+Znaki edytowalne:
+-Ich nazwa zaczyna siê na edit_
+
+Zmiany w wersji beta 0.4.0
+- Dodano czcionkê "EFN Znaki Drogowe" (W OMSI nazywa siê "Tablica")
+- Dodano edytowalne znaki kierunku (typ E) i kilka tabliczek (T) - nazwa ich zaczyna siê od edit_
+- Dodano znaki przed przejazdami kolejowymi (typ G)
+
+Zmiany w wersji beta 0.3.0
+- Dodano tabliczki do znaków drogowych (typ t) - z kilkoma wyj¹tkami
+- W znaku T-1 mo¿na edytowaæ napis, jednak jest to wersja testowa
+ 
+Zmiany w wersji beta 0.2.0
+- Dodano znaki informacyjne
+- Dodano znaczniki [attach] w s³upach
+
+
+Zmiany w wersji beta 0.1.0 :
+- Dodano znaki nakazu oraz znak kontrola radarowa
+- Dodano plik *.sco ograniczenia prêdkoœci do 40 km/h
+- Dodano zapis o licencji i jakiœ w miare readmie
+
+Dodatek ten rozpowszechniany jest na licencji creative commons, je¿eli chcesz u¿ywaæ tych znaków na swojej mapie, umieœæ informacjê o moim autorstwie w pliku readme.
+Oczywiœcie dodatek ten jest przeznaczony do u¿ytku niekomercyjnego.
+
+Szerokiej Drogi.
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Hello! This package contains traffic signs used in Poland.
+Files are described as follows:
+files named a1.sco etc. are normal plates
+files named a1s.sco etc. are signs joined with pole
+slup00 and slup01 are poles which have attachment points.
+slup00 AttPntNr are 0 or 1
+slup01 AttPntNr are 0, 1 and 2
+
+Beta 0.4.0 changes:
+- Added font for signs (tablica.oft)
+- Added editable signs ("E and T" category)
+- Added "G" category signs
+
+Beta 0.3.0 changes:
+- Added "T" category signs, with few exceptions
+- Editable "T-1" sign, for testing purposes
+
+Beta 0.2.0 changes:
+- Added "D" category signs
+- Added [attach] parameters into poles
+
+Beta 0.1.0 changes:
+- Added "C" category signs and one from "D" category
+- Added *.sco files for 40kmh speed restriction 
+- Added better readme and licence.
+
+This addon is distributed on the crative commons license, if you want to use this addon on your map, put credits of mine autorship in readme file. Thanks
+
+Kruchu 2011.
+[readme_end]
+
+
+
+
+
+
+[create_amf]
+\Sceneryobjects\ADDON_PLSigns\plsigns.amf
+
+[uninstall]
+\Sceneryobjects\ADDON_PLSigns\
+[uninstall_end]

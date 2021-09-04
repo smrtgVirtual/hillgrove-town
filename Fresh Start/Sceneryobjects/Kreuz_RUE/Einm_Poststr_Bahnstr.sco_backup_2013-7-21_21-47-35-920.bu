@@ -1,0 +1,33 @@
+This file was created with the Omsi Object Editing tool
+
+[friendlyname]
+Junction Poststraﬂe/Bahnstraﬂe
+
+[groups]
+1
+Crossings
+
+[rendertype]
+surface
+
+[LightMapMapping]
+
+[fixed]
+
+[absheight]
+
+[collision_mesh]
+Einm_Poststr_Bahnstr.o3d
+
+[surface]
+
+
+
+###################
+     Model Data
+###################
+
+
+[mesh]
+Einm_Poststr_Bahnstr.o3d
+
