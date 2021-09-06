@@ -6,10 +6,33 @@ This file was written with HOF Suite by Rumpelhans.
 *****************************************
 
 [HOF_SUITE_DIRECTORIES]
+BRT_C2-Solo
+Citaro Facelift RH_D
+Citaro Facelift RH_PB
+HB76_MAN_LionsCity
+HB76_MAN_LionsCity FL
+HB76_MAN_LionsCity FL B2
+HC_Volvo7900H
+HH_EBus2019
+HH_EBus2019 B2
+MAN Lion's City A22 - FL
+MAN Lion's City A22 Batch 1-2
+MAN Lion's City A22 Batch 3
+MAN Lion's City Hybrid
+MAN_DL05 SG FL E6 B1
+MAN_DL05 SG FL E6 B2
+MAN_NewLionsCity
+MB_O530G_Facelift_Hybrid
+MB_O530_Facelift_SG
+MB_O530_Facelift_SMB
+NEOMAN_Overhaul
+Scania Aktiebolag Citywide
+VDL_Citea_LLE_Release_2
+MB_O530_Facelift
 [HOF_SUITE_DIRECTORIES_END]
 
 [name]
-Hillgrove Town
+Hillgrove Town [K++]
 
 [servicetrip]
 OFF SERVICE
@@ -340,41 +363,6 @@ Budget Ter PTB 1	BUDGET TER PTB 1	BUDGET TER PTB 1		BUDGET TER PTB 1
 ***************
 
 [infosystem_trip]
-97901
-TOMLINSON INT >>  TOMLINSON INT
-979
-979
-
-[infosystem_busstop_list]
-26
-Tomlinson Int
-Tomlinson Int
-Upp Tomlinson Rd
-LP31
-Opp Blk 679
-Opp Blk 675
-Opp Nine Mile Junct
-Bef Hgrove Eway
-Blk 517
-Blk 501
-Aft Hgrove Eway Exit
-Hillside Residences
-Blk 514
-Blk 525
-Bet Collins JC and RV Sec Sch
-Rivervale Stn
-Blk 497
-Rivervale Terraces
-Opp Reichelt Smarket Long Hill
-Rivervale Stadium
-Blk 607
-Blk 682
-Blk 680
-Blk 682D
-Tomlinson Int
-Tomlinson Int Terminus
-
-[infosystem_trip]
 97401
 TOMLINSON INT >>  TOMLINSON INT
 974
@@ -411,236 +399,62 @@ Tomlinson Int
 Tomlinson Int Terminus
 
 [infosystem_trip]
-97601
-TOMLINSON INT >>  TOMLINSON INT
-976
-976
+97402
+TOWNSVILLE POLY >>  OPP TOWNSVILLE POLY
+994
+974
 
 [infosystem_busstop_list]
-17
-Tomlinson Int
-Tomlinson Int
-Blk 497
-Rivervale Estate
-Blk 680A
-Opp Blk 669
-Opp Blk 665
-Opp Blk 660
-La Regente Condo
-Opp Brickland Stn
-Blk 765
-Opp McD Brickland
-Brickland Hub
+13
+Opp Cheng Hu Farm
+Townsville Poly
+LP33
+Opp Blk 372
+Opp Blk 347
+Opp Blk 321
+Opp Blk 292
+Bef Townsville Condo
+Blk 344
+Townsville Stn
+Blk 307
+Opp Townsville Poly
+Opp Cheng Hu Farm
+
+[infosystem_trip]
+97403
+WEST TERRA INT >>  WEST TERRA INT
+997
+974
+
+[infosystem_busstop_list]
+27
+West Terra Int
+Blk 372A
+Bef Hgrove Eway
+Normanton Depot
+LP32
+Townsville Poly
+LP33
+Opp Blk 372
+Opp Blk 347
+Opp Blk 321
+Opp Blk 292
+Opp Blk 403
+Brit Petrol T'ville
+Townsville Square
+Opp Townsville Pt
+Bef Townsville Condo
+Blk 344
+Townsville Stn
+Blk 307
+Opp Townsville Poly
+Opp LP32
+Opp Normanton Depot
 Hillside Residences
 Blk 514
-Tomlinson Int
-Tomlinson Int Terminus
-
-[infosystem_trip]
-98201
-HILLGROVE INT >>  HILLGROVE INT
-982
-982
-
-[infosystem_busstop_list]
-24
-Hillgrove Int
-Hillgrove Int
-Bet Blks 415 and 416
-Blk 501
-Opp Blk 506
-Blk 546
-Blk 550
-Blk 559
-Brickland Stn
-Blk 618
-Blk 680A
-Opp Blk 669
-Opp Blk 665
-Opp Blk 660
-La Regente Condo
-Opp Brickland Stn
-Blk 562
-Blk 543
-Blk 531
-Blk 506
-Blk 504
-Blk 422
-Hillgrove Int
-Hillgrove Int Terminus
-
-[infosystem_trip]
-98701
-HILLGROVE INT  >>  HILLGROVE INT
-987
-987
-
-[infosystem_busstop_list]
-29
-Hillgrove Int
-Hillgrove Int
-Blk 655
-Bef Normanton Circular 1
-Blk 790
-Blk 738
-Blk 850
-Opp Reichelt Smarket
-Cheng Hu Farm
-Blk 735
-Opp Blk 736
-Opp Blk 785
-Hillgrove Park
-Hillgrove SM-Hillgrove Stn
-Blk 352
-Blk 250
-Blk 283
-Blk 500
-Opp Hillgrove Polyclinic
-Blk 10
-Blk 30
-Blk 125
-Hillgrove Polyclinic
-Blk 535
-South Park Primary School
-Blk 324
-Blk 414
-Hillgrove Int
-Hillgrove Int Terminus
-
-[infosystem_trip]
-98801
-HILLGROVE INT >>  HILLGROVE INT
-988
-988
-
-[infosystem_busstop_list]
-14
-Hillgrove Int
-Hillgrove Int
-Blk 655
-Blk 543
-Blk 535
-Villa Norde
-Blk 496
-ITE CW-Hgrove Link Stn
-Hillgrove Verge
-Opp Villa Norde
-Blk 500
-Opp Blk 543
-Hillgrove Int
-Hillgrove Int Terminus
-
-[infosystem_trip]
-98101
-HILLGROVE INT  >>  HILLGROVE INT
-981
-981
-
-[infosystem_busstop_list]
-17
-Hillgrove Int
-Hillgrove Int
-Blk 352
-Blk 226
-Blk 285D
-Sunshine Plaza
-Blk 476
-Blk 469
-Bet Goat and Poultry Farm
-Blk 825A
-Blk 823
-Blk 290
-Opp Blk 285D
-Opp Blk 226
-Blk 414
-Hillgrove Int
-Hillgrove Int Terminus
-
-[infosystem_trip]
-98901
-HILLGROVE INT  >>  HILLGROVE INT
-989
-989
-
-[infosystem_busstop_list]
-20
-Hillgrove Int
-Hillgrove Int
-Blk 655
-Bef Normanton Circular 1
-Normanton Rd
-Edgeville Heights
-Opp Tennessee Point Exit
-Opp Blk 768
-Bailey Estate
-Rosemary Estate
-Aft Peace Village Ctr
-Greenridge Residences
-Blk 768
-Tennessee Point Exit
-Opp Edgeville Heights
-Blk 795
-Aft Normanton Circular 1
-Hillgrove Villa
-Hillgrove Int
-Hillgrove Int Terminus
-
-[infosystem_trip]
-99101
-HOSPITAL AVE TER  >>  HOSPITAL AVE TER
-991
-991
-
-[infosystem_busstop_list]
-21
-Hospital Ave Ter
-Hospital Ave Ter
-Peace Village
-Elsterplatz
-Opp N'thern Tip Village
-Tennessee Terrace
-Blk 830
-Aft Millenia Institute
-Blk 800
-Blk 772
-Blk 735
-Bef Millenia Institute
-Opp Blk 830
-Tennessee Point
-N'thern Tip Village
-Opp Elsterplatz
-Opp Peace Village
-Stone Village Expansion
-Stone Village Market
-Hospital Ave Ter
-Hospital Ave Ter
-
-[infosystem_trip]
-99001
-HOSPITAL AVE TER  >>  HOSPITAL AVE TER
-990
-990
-
-[infosystem_busstop_list]
-18
-Hospital Ave Ter
-Hospital Ave Ter
-Peace Village Estate I
-Peace Village Estate II
-Peace Village Estate III
-Peace Village
-Elsterplatz
-Opp N'thern Tip Village
-Tennessee Terrace
-Bef Edgedale Estate
-Aft Edgedale Estate
-Edgedale Plains
-Tennessee Point
-N'thern Tip Village
-Opp Elsterplatz
-Opp Elektra Sec Sch
-Hospital Ave Ter
-Hospital Ave Ter
+Opp Blk 372A
+West Terra Int
+West Terra Int Terminus
 
 [infosystem_trip]
 97501
@@ -721,26 +535,124 @@ Tomlinson Int
 Tomlinson Int Terminus
 
 [infosystem_trip]
-97402
-TOWNSVILLE POLY >>  OPP TOWNSVILLE POLY
-994
-974
+97601
+TOMLINSON INT >>  TOMLINSON INT
+976
+976
 
 [infosystem_busstop_list]
-13
-Opp Cheng Hu Farm
-Townsville Poly
-LP33
-Opp Blk 372
-Opp Blk 347
-Opp Blk 321
-Opp Blk 292
-Bef Townsville Condo
-Blk 344
-Townsville Stn
-Blk 307
-Opp Townsville Poly
-Opp Cheng Hu Farm
+17
+Tomlinson Int
+Tomlinson Int
+Blk 497
+Rivervale Estate
+Blk 680A
+Opp Blk 669
+Opp Blk 665
+Opp Blk 660
+La Regente Condo
+Opp Brickland Stn
+Blk 765
+Opp McD Brickland
+Brickland Hub
+Hillside Residences
+Blk 514
+Tomlinson Int
+Tomlinson Int Terminus
+
+[infosystem_trip]
+97901
+TOMLINSON INT >>  TOMLINSON INT
+979
+979
+
+[infosystem_busstop_list]
+26
+Tomlinson Int
+Tomlinson Int
+Upp Tomlinson Rd
+LP31
+Opp Blk 679
+Opp Blk 675
+Opp Nine Mile Junct
+Bef Hgrove Eway
+Blk 517
+Blk 501
+Aft Hgrove Eway Exit
+Hillside Residences
+Blk 514
+Blk 525
+Bet Collins JC and RV Sec Sch
+Rivervale Stn
+Blk 497
+Rivervale Terraces
+Opp Reichelt Smarket Long Hill
+Rivervale Stadium
+Blk 607
+Blk 682
+Blk 680
+Blk 682D
+Tomlinson Int
+Tomlinson Int Terminus
+
+[infosystem_trip]
+98101
+HILLGROVE INT  >>  HILLGROVE INT
+981
+981
+
+[infosystem_busstop_list]
+17
+Hillgrove Int
+Hillgrove Int
+Blk 352
+Blk 226
+Blk 285D
+Sunshine Plaza
+Blk 476
+Blk 469
+Bet Goat and Poultry Farm
+Blk 825A
+Blk 823
+Blk 290
+Opp Blk 285D
+Opp Blk 226
+Blk 414
+Hillgrove Int
+Hillgrove Int Terminus
+
+[infosystem_trip]
+98201
+HILLGROVE INT >>  HILLGROVE INT
+982
+982
+
+[infosystem_busstop_list]
+24
+Hillgrove Int
+Hillgrove Int
+Bet Blks 415 and 416
+Blk 501
+Opp Blk 506
+Blk 546
+Blk 550
+Blk 559
+Brickland Stn
+Blk 618
+Blk 680A
+Opp Blk 669
+Opp Blk 665
+Opp Blk 660
+La Regente Condo
+Opp Brickland Stn
+Blk 562
+Blk 543
+Blk 531
+Blk 506
+Blk 504
+Blk 422
+Hillgrove Int
+Hillgrove Int Terminus
 
 [infosystem_trip]
 98301
@@ -769,42 +681,6 @@ West Terra Int
 West Terra Int Terminus
 
 [infosystem_trip]
-97403
-WEST TERRA INT >>  WEST TERRA INT
-997
-974
-
-[infosystem_busstop_list]
-27
-West Terra Int
-Blk 372A
-Bef Hgrove Eway
-Normanton Depot
-LP32
-Townsville Poly
-LP33
-Opp Blk 372
-Opp Blk 347
-Opp Blk 321
-Opp Blk 292
-Opp Blk 403
-Brit Petrol T'ville
-Townsville Square
-Opp Townsville Pt
-Bef Townsville Condo
-Blk 344
-Townsville Stn
-Blk 307
-Opp Townsville Poly
-Opp LP32
-Opp Normanton Depot
-Hillside Residences
-Blk 514
-Opp Blk 372A
-West Terra Int
-West Terra Int Terminus
-
-[infosystem_trip]
 98401
 WEST TERRA INT >>  WEST TERRA INT
 984
@@ -824,4 +700,151 @@ Blk 392C
 Opp Blk 372A
 West Terra Int
 West Terra Int Terminus
+
+[infosystem_trip]
+98701
+HILLGROVE INT  >>  HILLGROVE INT
+987
+987
+
+[infosystem_busstop_list]
+29
+Hillgrove Int
+Hillgrove Int
+Blk 655
+Bef Normanton Circular 1
+Blk 790
+Blk 738
+Blk 850
+Opp Reichelt Smarket
+Cheng Hu Farm
+Blk 735
+Opp Blk 736
+Opp Blk 785
+Hillgrove Park
+Hillgrove SM-Hillgrove Stn
+Blk 352
+Blk 250
+Blk 283
+Blk 500
+Opp Hillgrove Polyclinic
+Blk 10
+Blk 30
+Blk 125
+Hillgrove Polyclinic
+Blk 535
+South Park Primary School
+Blk 324
+Blk 414
+Hillgrove Int
+Hillgrove Int Terminus
+
+[infosystem_trip]
+98801
+HILLGROVE INT >>  HILLGROVE INT
+988
+988
+
+[infosystem_busstop_list]
+14
+Hillgrove Int
+Hillgrove Int
+Blk 655
+Blk 543
+Blk 535
+Villa Norde
+Blk 496
+ITE CW-Hgrove Link Stn
+Hillgrove Verge
+Opp Villa Norde
+Blk 500
+Opp Blk 543
+Hillgrove Int
+Hillgrove Int Terminus
+
+[infosystem_trip]
+98901
+HILLGROVE INT  >>  HILLGROVE INT
+989
+989
+
+[infosystem_busstop_list]
+20
+Hillgrove Int
+Hillgrove Int
+Blk 655
+Bef Normanton Circular 1
+Normanton Rd
+Edgeville Heights
+Opp Tennessee Point Exit
+Opp Blk 768
+Bailey Estate
+Rosemary Estate
+Aft Peace Village Ctr
+Greenridge Residences
+Blk 768
+Tennessee Point Exit
+Opp Edgeville Heights
+Blk 795
+Aft Normanton Circular 1
+Hillgrove Villa
+Hillgrove Int
+Hillgrove Int Terminus
+
+[infosystem_trip]
+99001
+HOSPITAL AVE TER  >>  HOSPITAL AVE TER
+990
+990
+
+[infosystem_busstop_list]
+18
+Hospital Ave Ter
+Hospital Ave Ter
+Peace Village Estate I
+Peace Village Estate II
+Peace Village Estate III
+Peace Village
+Elsterplatz
+Opp N'thern Tip Village
+Tennessee Terrace
+Bef Edgedale Estate
+Aft Edgedale Estate
+Edgedale Plains
+Tennessee Point
+N'thern Tip Village
+Opp Elsterplatz
+Opp Elektra Sec Sch
+Hospital Ave Ter
+Hospital Ave Ter
+
+[infosystem_trip]
+99101
+HOSPITAL AVE TER  >>  HOSPITAL AVE TER
+991
+991
+
+[infosystem_busstop_list]
+21
+Hospital Ave Ter
+Hospital Ave Ter
+Peace Village
+Elsterplatz
+Opp N'thern Tip Village
+Tennessee Terrace
+Blk 830
+Aft Millenia Institute
+Blk 800
+Blk 772
+Blk 735
+Bef Millenia Institute
+Opp Blk 830
+Tennessee Point
+N'thern Tip Village
+Opp Elsterplatz
+Opp Peace Village
+Stone Village Expansion
+Stone Village Market
+Hospital Ave Ter
+Hospital Ave Ter
 
