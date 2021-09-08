@@ -23,8 +23,8 @@ Sceneryobjects\Daytonford\RQ_20n_w9,5_SideWide_Junct_A.sco
 1361799017
 -1
 Sceneryobjects\Generic\bus_stop.sco
-1361799431
-1361799431
+1395037235
+1395037235
 -1
 Sceneryobjects\gg\phousing_0901.sco
 1099530088
@@ -67,12 +67,12 @@ Sceneryobjects\SMV Studios\Route Hints V4\arrow_rightA.sco
 1392487826
 -1
 Sceneryobjects\Streetobjects_RUE\neonlight_S_whip_S.sco
-1361799457
-1361799457
+1167985954
+1167985954
 -1
 Sceneryobjects\Streetobjects_RUE\single_pole.sco
-1361799457
-1361799457
+1167985956
+1167985956
 -1
 Sceneryobjects\Trees_MC\RHD_tree_large_02.sco
 1361799459
@@ -104,5 +104,9 @@ Splines\Daytonford\RQ_28_Bridge.sli
 -
 Splines\Ruede\DDR_Zaun_01.sli
 1230788274
+-
+-
+Splines\invis_street.sli
+1368090194
 -
 -

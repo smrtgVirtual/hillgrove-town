@@ -39,12 +39,12 @@ Sceneryobjects\SMV Studios\Route Hints V4\arrow_upA.sco
 1392487831
 -1
 Sceneryobjects\Streetobjects_RUE\neonlight_S_whip_S.sco
-1361799457
-1361799457
+1167985954
+1167985954
 -1
 Sceneryobjects\Streetobjects_RUE\single_pole.sco
-1361799457
-1361799457
+1167985956
+1167985956
 -1
 Sceneryobjects\Trees_MC\RHD_tree_large_04.sco
 1361799459
@@ -56,5 +56,13 @@ Sceneryobjects\Trees_MC\tree_medium_01.sco
 -1
 Splines\Daytonford\RQ_20_4_spur_15m_narrow_Sidewalk.sli
 1361798682
+-
+-
+Sceneryobjects\SMV Studios\Route Hints V4\arrow_leftA.sco
+1392487836
+1392487836
+-1
+Splines\Marcel\invis_street.sli
+999142606
 -
 -
