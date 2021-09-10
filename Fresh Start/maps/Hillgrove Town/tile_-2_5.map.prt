@@ -1,3 +1,11 @@
+Sceneryobjects\ABB\electric_module.sco
+1390836429
+1390836429
+-1
+Sceneryobjects\ABB\pantograph_down.sco
+1390836429
+1390836429
+-1
 Sceneryobjects\Addon_British-Style_Road_Markings\Road_Destination_Mark_2line.sco
 1144108168
 1144108168
@@ -39,20 +47,20 @@ Sceneryobjects\gg\phousing_0001.sco
 1112307773
 -1
 Sceneryobjects\Helferlein_Objekte\Buegel2f.sco
-1388142013
-1388142013
+1395155076
+1395155076
 -1
 Sceneryobjects\Helferlein_Objekte\Buegel3f.sco
-1388142013
-1388142013
+1395155076
+1395155076
 -1
 Sceneryobjects\Helferlein_Objekte\SG_2f_FG.sco
-1388142013
-1388142013
+1395155076
+1395155076
 -1
 Sceneryobjects\Helferlein_Objekte\SG_3f_Kfz.sco
-1388142013
-1388142013
+1395155076
+1395155076
 -1
 Sceneryobjects\HVLS Fans_RIS\HVLS Fans.sco
 1253686350
@@ -93,14 +101,6 @@ Sceneryobjects\SMRTG Studios\LTA Road Sign\LTARSSM.sco
 Sceneryobjects\SMRTG Studios\Route Hints V3\arrow_busStop.sco
 1381000008
 1381000008
--1
-Sceneryobjects\SMRTG Studios\Route Hints V3\arrow_leftA.sco
-1381000007
-1381000007
--1
-Sceneryobjects\SMRTG Studios\Route Hints V3\arrow_rightA.sco
-1381000005
-1381000005
 -1
 Sceneryobjects\SMRTG Studios\SMRTG Displays V3 Departures\Hillgrove Int\Display Screen.sco
 1315352124
@@ -246,11 +246,3 @@ Splines\Yufa\bussteig004noppl.sli
 1361799399
 -
 -
-Sceneryobjects\ABB\electric_module.sco
-1390836429
-1390836429
--1
-Sceneryobjects\ABB\pantograph_down.sco
-1390836429
-1390836429
--1

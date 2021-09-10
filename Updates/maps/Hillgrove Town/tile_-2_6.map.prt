@@ -1,3 +1,7 @@
+Sceneryobjects\Addon_British-Style_Road_Markings\Road_Destination_Mark_2line.sco
+1144108168
+1144108168
+-1
 Sceneryobjects\Buildings_DF\Traffic_lights\whip_beam.sco
 1155991120
 1155991120
@@ -18,13 +22,13 @@ Sceneryobjects\Daytonford\RQ_20n_to_10,5.sco
 1361799017
 1361799017
 -1
-Sceneryobjects\Daytonford\RQ_20n_w9,5_SideWide_Junct_A.sco
+Sceneryobjects\Daytonford\RQ_20n_w9,5_SideWide_Cross_A.sco
 1361799017
 1361799017
 -1
-Sceneryobjects\Daytonford\RQ_9,5_to_10,5.sco
-1361799018
-1361799018
+Sceneryobjects\Daytonford\RQ_20n_w9,5_SideWide_Junct_A.sco
+1361799017
+1361799017
 -1
 Sceneryobjects\Generic\bus_stop.sco
 1395037235
@@ -51,24 +55,28 @@ Sceneryobjects\gg\phousing_1101.sco
 1110743880
 -1
 Sceneryobjects\Helferlein_Objekte\Buegel2f.sco
-1388142013
-1388142013
+1395155076
+1395155076
 -1
 Sceneryobjects\Helferlein_Objekte\Buegel3f.sco
-1388142013
-1388142013
+1395155076
+1395155076
 -1
 Sceneryobjects\Helferlein_Objekte\SG_2f_FG.sco
-1388142013
-1388142013
+1395155076
+1395155076
 -1
 Sceneryobjects\Helferlein_Objekte\SG_3f_Kfz.sco
-1388142013
-1388142013
+1395155076
+1395155076
 -1
 Sceneryobjects\HVLS Fans_RIS\HVLS Fans.sco
 1253686350
 1253686350
+-1
+Sceneryobjects\Road-hog123\Addon_British-Style_Road_Markings\Arrow_Left.sco
+1219537095
+1219537095
 -1
 Sceneryobjects\Road-hog123\Addon_British-Style_Road_Markings\Arrow_Right.sco
 1219537109
@@ -93,14 +101,6 @@ Sceneryobjects\SMRTG Studios\Bus Int Signboard\BIS HG.sco
 Sceneryobjects\SMRTG Studios\Route Hints V3\arrow_busStop.sco
 1381000008
 1381000008
--1
-Sceneryobjects\SMRTG Studios\Route Hints V3\arrow_leftA.sco
-1381000007
-1381000007
--1
-Sceneryobjects\SMRTG Studios\Route Hints V3\arrow_rightA.sco
-1381000005
-1381000005
 -1
 Sceneryobjects\SMRTG Studios\Smart Bus Stop V2\smrtg_sbs.sco
 1358389653
@@ -166,10 +166,6 @@ Splines\Daytonford\RQ_20_4_spur_15m_narrow_Sidewalk.sli
 1361798682
 -
 -
-Splines\Daytonford\RQ_9,5_2spur_6,5m_Sidewalk.sli
-1361798682
--
--
 Splines\Marcel\invis_human.sli
 1085057041
 -
@@ -198,11 +194,3 @@ Splines\Yufa\bussteig004noppl.sli
 1361799399
 -
 -
-Sceneryobjects\Addon_British-Style_Road_Markings\Road_Destination_Mark_2line.sco
-1144108168
-1144108168
--1
-Sceneryobjects\Road-hog123\Addon_British-Style_Road_Markings\Arrow_Left.sco
-1219537095
-1219537095
--1
