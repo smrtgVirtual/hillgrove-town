@@ -3,7 +3,7 @@ Time Table Trip File
 -----------------------
 
 Created with Omsi Version 2.2.032
-Date: 10/9/2021
+Date: 20/9/2021
 
 [trip]
 
@@ -72,7 +72,7 @@ Tomlinson Int 976
 
 [profile]
 976AP
-27.500
+31.500
 
 [profile_man_arr_time]
 0
@@ -88,13 +88,13 @@ Tomlinson Int 976
 5.509
 [profile_man_arr_time]
 4
-7.570
+8.570
 [profile_man_arr_time]
 5
-8.103
+9.503
 [profile_man_arr_time]
 6
-9.059
+10.059
 [profile_man_arr_time]
 7
 11.012
@@ -106,22 +106,22 @@ Tomlinson Int 976
 15.562
 [profile_man_arr_time]
 10
-16.689
+17.689
 [profile_man_arr_time]
 11
-17.679
+18.679
 [profile_man_arr_time]
 12
-18.302
+19.502
 [profile_man_arr_time]
 13
-23.936
+20.936
 [profile_man_arr_time]
 14
-25.513
+28.513
 [profile_man_arr_time]
 15
-26.755
+30.755
 [profile_man_arr_time]
 16
-27.500
+31.500
