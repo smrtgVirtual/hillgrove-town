@@ -3,7 +3,7 @@ Time Table Line File
 -----------------------
 
 Created with Omsi Version 2.2.032
-Date: 20/9/2021
+Date: 30/9/2021
 
 [userallowed]
 
@@ -13,7 +13,7 @@ Date: 20/9/2021
 
 [newtour]
 AP-01
-Buses Bendy 2
+Buses Double Decker
 1023
 
 ------------------------------------
@@ -190,7 +190,7 @@ Buses Bendy 2
 
 [newtour]
 AP-02
-Buses Bendy 2
+Buses Double Decker
 1023
 
 ------------------------------------
@@ -367,7 +367,7 @@ Buses Bendy 2
 
 [newtour]
 AP-03
-Buses Bendy 2
+Buses Double Decker
 1023
 
 ------------------------------------
@@ -538,7 +538,7 @@ Buses Bendy 2
 
 [newtour]
 AP-04
-Buses Bendy 2
+Buses Double Decker
 1023
 
 ------------------------------------
