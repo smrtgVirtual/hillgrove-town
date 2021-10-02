@@ -3,7 +3,7 @@ Time Table Trip File
 -----------------------
 
 Created with Omsi Version 2.2.032
-Date: 30/9/2021
+Date: 6/9/2021
 
 [trip]
 
@@ -63,7 +63,7 @@ Hillgrove Int 988
 
 [profile]
 988AP
-21.500
+18.000
 
 [profile_man_arr_time]
 0
@@ -73,37 +73,34 @@ Hillgrove Int 988
 1.818
 [profile_man_arr_time]
 2
-3.548
+3.948
 [profile_man_arr_time]
 3
-5.846
+5.546
 [profile_man_arr_time]
 4
-7.227
+6.427
 [profile_man_arr_time]
 5
-8.899
+7.299
 [profile_man_arr_time]
 6
-9.735
+9.235
 [profile_man_arr_time]
 7
-10.757
+10.857
 [profile_man_arr_time]
 8
-11.826
+11.526
 [profile_man_arr_time]
 9
-13.585
+12.585
 [profile_man_arr_time]
 10
-15.549
+14.749
 [profile_man_arr_time]
 11
-17.355
+15.355
 [profile_man_arr_time]
 12
-20.000
-[profile_man_arr_time]
-13
-21.500
+17.495
