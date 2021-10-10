@@ -1,7 +1,7 @@
 # Hillgrove Town
 
 ## About Map
-Hillgrove City is a map made in-house by SMRT Virtual Studios. This map includes 15
+Hillgrove City is a map made in-house by SMRT Virtual Studios. This map includes 15 drivable
 services – 974/A/M, 975, 976, 979, 981, 982, 983, 984, 987, 988, 989, 990 and 991.
 
 ## Services
