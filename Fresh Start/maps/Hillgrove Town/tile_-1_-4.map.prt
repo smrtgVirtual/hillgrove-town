@@ -62,21 +62,17 @@ Sceneryobjects\Helferlein_Objekte\SG_3f_Kfz.sco
 1395155076
 1395155076
 -1
-Sceneryobjects\SMRTG Studios\Bus Stop Pole V4\BS Pole.sco
-1363065549
-1363065549
--1
 Sceneryobjects\SMRTG Studios\LTA Road Sign\LTARSSM.sco
 1330144295
 1330144295
 -1
+Sceneryobjects\SMRTG Studios\Route Hints V3\arrow_busStop.sco
+1381000008
+1381000008
+-1
 Sceneryobjects\SMRTG Studios\SMV Bus Stop\smv_busstop.sco
 1377940020
 1377940020
--1
-Sceneryobjects\SMV Studios\Bus Stop Number\BS Number.sco
-1388745632
-1388745632
 -1
 Sceneryobjects\SMV Studios\Bus Stop Pole V5\BS Pole.sco
 1391175685
@@ -122,7 +118,3 @@ Splines\Yufa\bussteig004.sli
 1077390461
 -
 -
-Sceneryobjects\SMRTG Studios\Route Hints V3\arrow_busStop.sco
-1381000008
-1381000008
--1

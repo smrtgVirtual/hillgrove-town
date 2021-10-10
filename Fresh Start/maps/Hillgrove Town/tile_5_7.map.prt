@@ -14,34 +14,6 @@ Sceneryobjects\Buildings_MC\bw_supermarkt_2.sco
 1167985826
 1167985826
 -1
-Sceneryobjects\Daytonford\RQ_10,5_to_15,5_Start.sco
-1047956713
-1047956713
--1
-Sceneryobjects\Daytonford\RQ_20n_Busstop001.sco
-1361799017
-1361799017
--1
-Sceneryobjects\Daytonford\RQ_20n_Busstop002.sco
-1361799017
-1361799017
--1
-Sceneryobjects\Daytonford\RQ_20n_to_10,5.sco
-1361799017
-1361799017
--1
-Sceneryobjects\Daytonford\RQ_20n_w9,5_SideWide_Cross_A.sco
-1115583360
-1115583360
--1
-Sceneryobjects\Daytonford\RQ_20n_w9,5_SideWide_Junct_A.sco
-1115583319
-1115583319
--1
-Sceneryobjects\Daytonford\RQ_9,5_to_10,5.sco
-1361799018
-1361799018
--1
 Sceneryobjects\Generic\bus_stop.sco
 1395037235
 1395037235
@@ -77,6 +49,26 @@ Sceneryobjects\SMRTG Studios\Route Hints V3\arrow_busStop.sco
 Sceneryobjects\SMV Studios\Bus Stop Pole V5\BS Pole.sco
 1391175685
 1391175685
+-1
+Sceneryobjects\SMV Studios\Road Objects\ADDON_SimpleStreets\RQ_20n_Busstop001.sco
+1053014247
+1053014247
+-1
+Sceneryobjects\SMV Studios\Road Objects\ADDON_SimpleStreets\RQ_20n_Busstop002.sco
+1053014107
+1053014107
+-1
+Sceneryobjects\SMV Studios\Road Objects\ADDON_SimpleStreets\RQ_20n_to_10,5.sco
+1049134507
+1049134507
+-1
+Sceneryobjects\SMV Studios\Road Objects\ADDON_SimpleStreets\RQ_20n_w9,5_SideWide_Cross_A.sco
+1115583360
+1115583360
+-1
+Sceneryobjects\SMV Studios\Road Objects\ADDON_SimpleStreets\RQ_20n_w9,5_SideWide_Junct_A.sco
+1115583319
+1115583319
 -1
 Sceneryobjects\SMV Studios\Route Hints V4\arrow_leftA.sco
 1392487836
@@ -114,15 +106,11 @@ Sceneryobjects\Trees_MC\tree_medium_09.sco
 1361799459
 1361799459
 -1
-Splines\Daytonford\RQ_15,5_2spur_11,5m_Sidewalk.sli
-1047630645
--
--
-Splines\Daytonford\RQ_20_4_spur_15m_narrow_Sidewalk.sli
-1361798682
--
--
 Splines\Marcel\invis_street.sli
 999142606
+-
+-
+Splines\SMV Studios\ADDON_SimpleStreets\RQ_20_4_spur_15m_narrow_Sidewalk.sli
+1048803973
 -
 -

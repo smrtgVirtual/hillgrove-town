@@ -2,10 +2,6 @@ Sceneryobjects\Buildings_DF\Traffic_lights\whip_beam.sco
 1155991120
 1155991120
 -1
-Sceneryobjects\Daytonford\RQ_20n_w9,5_SideWide_Junct_A.sco
-1115583319
-1115583319
--1
 Sceneryobjects\Generic\bus_stop.sco
 1395037235
 1395037235
@@ -53,6 +49,10 @@ Sceneryobjects\SMRTG Studios\West Terra ITH\Berth_P.sco
 Sceneryobjects\SMRTG Studios\West Terra ITH\WTITH.sco
 1382789920
 1382789920
+-1
+Sceneryobjects\SMV Studios\Road Objects\ADDON_SimpleStreets\RQ_20n_w9,5_SideWide_Junct_A.sco
+1115583319
+1115583319
 -1
 Sceneryobjects\SMV Studios\Route Hints V4\arrow_leftA.sco
 1392487836
@@ -108,6 +108,10 @@ Splines\Marcel\invis_street.sli
 -
 Splines\Ruede\DDR_Zaun_01.sli
 1230788274
+-
+-
+Splines\SMV Studios\ADDON_SimpleStreets\RQ_20_4_spur_15m_narrow_Sidewalk.sli
+1048803973
 -
 -
 Splines\Terrain Spline\10mTerrain_SplineDARK.sli
