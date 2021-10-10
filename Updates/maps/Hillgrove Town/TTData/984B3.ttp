@@ -3,7 +3,7 @@ Time Table Trip File
 -----------------------
 
 Created with Omsi Version 2.2.032
-Date: 6/9/2021
+Date: 10/10/2021
 
 [trip]
 
@@ -60,7 +60,7 @@ West Terra Int 984
 
 [profile]
 984AP
-33.500
+38.500
 
 [profile_man_arr_time]
 0
@@ -85,19 +85,19 @@ West Terra Int 984
 15.507
 [profile_man_arr_time]
 7
-19.624
+20.624
 [profile_man_arr_time]
 8
-25.743
+30.743
 [profile_man_arr_time]
 9
-27.525
+32.525
 [profile_man_arr_time]
 10
-29.389
+34.389
 [profile_man_arr_time]
 11
-32.950
+36.550
 [profile_man_arr_time]
 12
-33.500
+38.500

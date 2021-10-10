@@ -6,18 +6,6 @@ Sceneryobjects\Buildings_MC\bw_hoch_14.sco
 1167985890
 1167985890
 -1
-Sceneryobjects\Daytonford\RQ_20n_to_10,5.sco
-1361799017
-1361799017
--1
-Sceneryobjects\Daytonford\RQ_20n_w9,5_SideWide_Cross_A.sco
-1115583360
-1115583360
--1
-Sceneryobjects\Daytonford\RQ_20n_w9,5_SideWide_Junct_A.sco
-1115583319
-1115583319
--1
 Sceneryobjects\Daytonford\RQ_9,5_to_10,5.sco
 1361799018
 1361799018
@@ -61,6 +49,18 @@ Sceneryobjects\Ruede\trees_chestnut03.sco
 Sceneryobjects\SMRTG Studios\LTA Road Sign\LTARSSM.sco
 1330144295
 1330144295
+-1
+Sceneryobjects\SMV Studios\Road Objects\ADDON_SimpleStreets\RQ_20n_to_10,5.sco
+1049134507
+1049134507
+-1
+Sceneryobjects\SMV Studios\Road Objects\ADDON_SimpleStreets\RQ_20n_w9,5_SideWide_Cross_A.sco
+1115583360
+1115583360
+-1
+Sceneryobjects\SMV Studios\Road Objects\ADDON_SimpleStreets\RQ_20n_w9,5_SideWide_Junct_A.sco
+1115583319
+1115583319
 -1
 Sceneryobjects\SMV Studios\Route Hints V4\arrow_leftA.sco
 1392487836
@@ -140,5 +140,9 @@ Splines\Daytonford\RQ_9,5_2spur_6,5m_Sidewalk.sli
 -
 Splines\Marcel\invis_street.sli
 999142606
+-
+-
+Splines\SMV Studios\ADDON_SimpleStreets\RQ_20_4_spur_15m_narrow_Sidewalk.sli
+1048803973
 -
 -

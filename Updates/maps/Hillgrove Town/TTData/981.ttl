@@ -3,7 +3,7 @@ Time Table Line File
 -----------------------
 
 Created with Omsi Version 2.2.032
-Date: 6/9/2021
+Date: 10/10/2021
 
 [userallowed]
 
@@ -13,7 +13,7 @@ Date: 6/9/2021
 
 [newtour]
 AP-01
-Buses Rigid 2
+Buses Rigid 1
 1023
 
 ------------------------------------
@@ -256,7 +256,7 @@ Buses Rigid 2
 
 [newtour]
 AP-02
-Buses Bendy 1
+Buses Rigid 1
 1023
 
 ------------------------------------
@@ -499,7 +499,7 @@ Buses Bendy 1
 
 [newtour]
 AP-03
-Buses Bendy 1
+Buses Rigid 2
 1023
 
 ------------------------------------
