@@ -1,5 +1,0 @@
-UpperContent
-UpperRouteNumber
-LowerContent
-LowerRouteNumber
-JunctionNumber

@@ -1,3 +1,0 @@
-{trigger:toggle_switch}
-	(L.L.Switch) ! (S.L.Switch)
-{end}

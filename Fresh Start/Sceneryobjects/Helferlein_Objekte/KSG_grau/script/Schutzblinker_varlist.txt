@@ -1,4 +1,0 @@
-Yellow
-Timer
-Green
-Timer2

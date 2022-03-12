@@ -1,2 +1,0 @@
-JR_sound_played
-JR_sound_timestamp

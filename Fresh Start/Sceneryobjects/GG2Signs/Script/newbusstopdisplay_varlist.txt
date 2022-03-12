@@ -1,3 +1,0 @@
-currentHour
-currentMinute
-Blink

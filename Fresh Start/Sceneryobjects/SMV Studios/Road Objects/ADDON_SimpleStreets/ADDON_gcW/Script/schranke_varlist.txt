@@ -1,6 +1,0 @@
-time
-schranke_pos
-schranke_run
-schranke
-red
-green

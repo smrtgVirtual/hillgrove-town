@@ -1,8 +1,0 @@
-time
-schranke_pos
-schranke_run
-schranke
-schranke_last_pos
-schranke_closing
-red
-green
